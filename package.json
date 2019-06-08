@@ -12,7 +12,7 @@
     "mongoose": "^5.5.12"
   },
   "scripts": {
-    "start":"node server.js",
-    "server":"nodemon serevr.js"
+    "start": "node server.js",
+    "server": "nodemon serevr.js"
   }
 }
